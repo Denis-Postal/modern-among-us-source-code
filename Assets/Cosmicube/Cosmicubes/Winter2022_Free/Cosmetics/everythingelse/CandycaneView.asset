@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: CandycaneView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: 0f198fb107813e44996e78badcec169a, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: 9288d33e92fdaa146bf496d991b9edd7, type: 2}
+  FloorFrame: {fileID: 21300000, guid: 33de74a7bd1fc8e4aa93831cbf7d4f41, type: 2}
+  MatchPlayerColor: 0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efda0ea3e7a348e06d332b81853bee7, type: 3}
+  m_Name: ArchaeView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: 51f98bb11eb354b43b8af080593f1765, type: 2}
+  EjectFrame: {fileID: 21300000, guid: a84beafbf98f2ba449aee5924782c62f, type: 2}
+  RelatedHat: {fileID: 11400000, guid: 3c722b4a6c3f04845847648ec948636b, type: 2}
+  RelatedVisor: {fileID: 0}
+  MatchPlayerColor: 0
+  IdleAnim: {fileID: 7400000, guid: 724b8ad494f6128408ec1ef627dbf74e, type: 2}
+  IdleLeftAnim: {fileID: 7400000, guid: f302368a3114be84d9ea3d9e65c94c59, type: 2}
+  RunAnim: {fileID: 7400000, guid: 5b44892edcf9d0e43bc673a32e1b96cc, type: 2}
+  RunLeftAnim: {fileID: 7400000, guid: 02ba45514b6bc6549a80b878403806b8, type: 2}
+  EnterVentAnim: {fileID: 7400000, guid: c6d9a548d95d8d74a8364f37f3f07631, type: 2}
+  ExitVentAnim: {fileID: 7400000, guid: adf79953a53bb3341937e2f4ba6d07d6, type: 2}
+  EnterLeftVentAnim: {fileID: 7400000, guid: 56a39e7beab6cdb46896f51009ec3726, type: 2}
+  ExitLeftVentAnim: {fileID: 7400000, guid: ee8b9a95213c11e418957e25bac39756, type: 2}
+  ClimbAnim: {fileID: 7400000, guid: c46562de611a5a640b8517bc77db4869, type: 2}
+  ClimbDownAnim: {fileID: 7400000, guid: 7cec3e248b3c9a240a3243845028fcfc, type: 2}
+  SpawnAnim: {fileID: 7400000, guid: 15fe4ee6b9eec9545bd9c8051562d6e5, type: 2}
+  SpawnLeftAnim: {fileID: 7400000, guid: 87f7f27211c671c4aa560232d92b76fa, type: 2}
+  KillTongueImpostor: {fileID: 7400000, guid: 56378e0f0dd9df94ab3675d7a31274cc, type: 2}
+  KillTongueVictim: {fileID: 7400000, guid: 9155cfc6a6e22de42845c947f9afa5db, type: 2}
+  KillShootImpostor: {fileID: 7400000, guid: b66ce483e0eca404ab6a1693ba545deb, type: 2}
+  KillShootVictim: {fileID: 7400000, guid: 7a493df81fdbc074ab754e97c33c1e96, type: 2}
+  KillNeckImpostor: {fileID: 7400000, guid: 838ef8ba8bab8d048801dde2f3d34d80, type: 2}
+  KillNeckVictim: {fileID: 7400000, guid: 2ce382ed3303b9946ba66e42055ab169, type: 2}
+  KillStabImpostor: {fileID: 7400000, guid: b5bc92c46dc200d4ba66e14215843041, type: 2}
+  KillStabVictim: {fileID: 7400000, guid: c6302df18153ff249a6919eaf22efee3, type: 2}
+  KillRHMVictim: {fileID: 7400000, guid: f1e53ced0d6502541999756cb3e631fd, type: 2}
+  CustomKillAnimID: 0
+  VisorID_KillAnim:
+  HatID_KillAnim:

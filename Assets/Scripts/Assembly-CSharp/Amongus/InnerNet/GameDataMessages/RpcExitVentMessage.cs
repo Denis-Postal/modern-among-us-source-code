@@ -1,0 +1,20 @@
+using Hazel;
+
+namespace AmongUs.InnerNet.GameDataMessages
+{
+	public class RpcExitVentMessage : BaseRpcMessage
+	{
+		private readonly int ventId;
+
+		public override RpcCalls RpcType => default(RpcCalls);
+
+		public RpcExitVentMessage(uint rpcObjectNetId, int ventId)
+			: base(0u)
+		{
+		}
+
+		protected override void SerializeRpcValues(MessageWriter msg)
+		{
+		}
+	}
+}

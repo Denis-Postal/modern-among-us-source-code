@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: ShapeshifterRole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be073ee41a3f3fd2c532a49df15d9fe, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Role: 5
+  StringName: 1504
+  BlurbName: 1508
+  BlurbNameMed: 1531
+  BlurbNameLong: 1532
+  RoleIconSolid: {fileID: 21300000, guid: ca9f82112b63c404c9529c8367da6ba9, type: 2}
+  RoleIconWhite: {fileID: 21300000, guid: f8aec03c1373bd3429b120a8d41166e2, type: 2}
+  RoleScreenshot: {fileID: 21300000, guid: 7d4acc2aabe56394a9046f6d24451510, type: 2}
+  NameColor: {r: 1, g: 0, b: 0, a: 1}
+  TasksCountTowardProgress: 0
+  CanUseKillButton: 1
+  CanBeKilled: 0
+  CanVent: 1
+  AffectedByLightAffectors: 0
+  MaxCount: 15
+  TeamType: 1
+  Ability: {fileID: 11400000, guid: e4acee6d335d4504383ed3d71cd896c9, type: 2}
+  SecondaryAbility: {fileID: 0}
+  DefaultGhostRole: 7
+  UseSound: {fileID: 8300000, guid: 0fe4e3d5930f4d146b232d174419cde1, type: 3}
+  IntroSound: {fileID: 8300000, guid: b61fb80d119d0944e8ff00cd7ac25b0f, type: 3}
+  AllGameSettings:
+  - {fileID: 11400000, guid: 8fd2b5901ed8fec4dbab042cdc25ee40, type: 2}
+  - {fileID: 11400000, guid: b9a98fe41db8f5d449839af5ddf02263, type: 2}
+  - {fileID: 11400000, guid: f01df9d9ee6698040a28541d31ed14ba, type: 2}
+  CustomKillAnimations: []
+  EvidencePrefab: {fileID: 114618682377417806, guid: 1402a7de4d3470942ab213a5692f822a, type: 2}
+  EvidenceOffset: {x: 0.082, y: 0.72, z: 0}
+  ShapeshifterMenu: {fileID: 114589667821646929, guid: 295e70824b7c86840b74a445f3484b95, type: 2}

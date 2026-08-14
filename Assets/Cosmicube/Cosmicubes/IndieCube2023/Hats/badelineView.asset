@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: badelineView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: 46c5265a4248e3549bcd99a32e1b1732, type: 2}
+  BackImage: {fileID: 21300000, guid: c007b6186a8e12a4d983b4e5b625e970, type: 2}
+  LeftMainImage: {fileID: 0}
+  LeftBackImage: {fileID: 0}
+  ClimbImage: {fileID: 21300000, guid: fedb6292540a6d54689648da53574b08, type: 2}
+  FloorImage: {fileID: 21300000, guid: d02dc10bd86cead45bd38033c485ad09, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

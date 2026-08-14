@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: RatchetHatView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: 69937fa2017fae64e90142390c4ae882, type: 2}
+  BackImage: {fileID: 21300000, guid: df45ba9bd450a2645b66b90bb16f9cdf, type: 2}
+  LeftMainImage: {fileID: 0}
+  LeftBackImage: {fileID: 0}
+  ClimbImage: {fileID: 21300000, guid: b1afec499ba3a8d4193d73fa96024e10, type: 2}
+  FloorImage: {fileID: 21300000, guid: 0ce6f5808f9e6e24b8d1c415dca09bdb, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

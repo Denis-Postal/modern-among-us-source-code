@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Paws
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 908b1281b4d2040239759168cf4da890
+    m_SubObjectName: cosmicube_paws_free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 65a1cd83ae45b42888bf8c5dbb87a6ee
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 9daca50ca923d4ad89a85522811dce42
+    m_SubObjectName: UI_currency_2024_paws_Free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 9/24/2024
+  allUnlockables:
+  - {fileID: 11400000, guid: 6efaa655e2fd9b8428f1b2cf8fa6d626, type: 2}
+  - {fileID: 11400000, guid: 95a8be7c7b9b4fd459c225b33df0f8de, type: 2}
+  - {fileID: 11400000, guid: 1ddd4ccf994b50045b8262ecdc0575a7, type: 2}
+  - {fileID: 11400000, guid: 4798eca80bace8144a5fbc8295ea9f8a, type: 2}
+  - {fileID: 11400000, guid: 8a9b20e6f7f74744381d7b64f61f924c, type: 2}
+  - {fileID: 11400000, guid: 9cec3de42635403428b7eb72a77e7932, type: 2}
+  - {fileID: 11400000, guid: 782d8ab065c2e6944bde566a5f98d5de, type: 2}
+  - {fileID: 11400000, guid: 6d229b8cc8a4a35439da91e1e4aaad44, type: 2}
+  - {fileID: 11400000, guid: 0582b64138f671a428a2b8689d2c10cb, type: 2}
+  - {fileID: 11400000, guid: 80256ac0fa897584c9b447c90a3f441f, type: 2}
+  - {fileID: 11400000, guid: 19756d26765e6f14d8749df9b88c8ace, type: 2}
+  - {fileID: 11400000, guid: 0cdb1b54066583e41a2d44f3f6fb7fcd, type: 2}
+  - {fileID: 11400000, guid: 8349e1b414c8557449f2ce4f2ff2e2c8, type: 2}
+  - {fileID: 11400000, guid: 33f8cf56e3759074c870fa3da226ca77, type: 2}
+  - {fileID: 11400000, guid: 2736ea5c35120894f9ed6496f50157b6, type: 2}
+  - {fileID: 11400000, guid: 7b8c5af332d26a04cbafb0a83f9fde80, type: 2}
+  - {fileID: 11400000, guid: 41db04a99cf3e9141bf804b8cf83a24e, type: 2}
+  - {fileID: 11400000, guid: 11b5a9b82b7f941439b307bc81557653, type: 2}
+  - {fileID: 11400000, guid: d3548ea1a02ae2d49a6f2c587a7cf9ac, type: 2}
+  - {fileID: 11400000, guid: 45fccef5e87a5bb44bdb850fe139ed3f, type: 2}
+  - {fileID: 11400000, guid: 589ebbfebcac5b147b7afaf3e3984d40, type: 2}
+  starCost: 0
+  beanCost: 3000
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.25
+    max: 0.675
+  YRange:
+    min: -0.5
+    max: 0.8
+  podId: paws
+  productId: cube_paws
+  cosmicubeName: Paws
+  limitedTime:
+    timeStart:
+      limitedYear: 2024
+      limitedMonth: 11
+      limitedDay: 19
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

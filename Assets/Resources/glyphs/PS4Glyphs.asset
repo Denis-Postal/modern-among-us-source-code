@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9793d17a86038482511aa4c6e0b863aa, type: 3}
+  m_Name: PS4Glyphs
+  m_EditorClassIdentifier:
+  controllerType:
+  glyphMaps:
+  - elementIdentifier: cross button
+    alternateElementIdentifier: cross
+    glyph: {fileID: 21300000, guid: 99459b4295984cf409186359bf8c6bed, type: 2}
+  - elementIdentifier: circle button
+    alternateElementIdentifier: circle
+    glyph: {fileID: 21300000, guid: df799a5b4746f704ea0f305666733341, type: 2}
+  - elementIdentifier: square button
+    alternateElementIdentifier: square
+    glyph: {fileID: 21300000, guid: 19dcbc0e3227f6740abbdf176a738892, type: 2}
+  - elementIdentifier: triangle button
+    alternateElementIdentifier: triangle
+    glyph: {fileID: 21300000, guid: 7aeeb64287eaa9747ba203e753eefe61, type: 2}
+  - elementIdentifier: L1 button
+    alternateElementIdentifier: L1
+    glyph: {fileID: 21300000, guid: b54fa4ad86a14404c853225684b85fd7, type: 2}
+  - elementIdentifier: L2 button
+    alternateElementIdentifier: L2
+    glyph: {fileID: 21300000, guid: 6661d06d4cc653e418ee6304741061bc, type: 2}
+  - elementIdentifier: R1 button
+    alternateElementIdentifier: R1
+    glyph: {fileID: 21300000, guid: 4b3c32c6479586c4f992a0bf237edaff, type: 2}
+  - elementIdentifier: R2 button
+    alternateElementIdentifier: R2
+    glyph: {fileID: 21300000, guid: be7020b831f1df440ba817c1e20ff8bf, type: 2}
+  - elementIdentifier: OPTIONS button
+    alternateElementIdentifier: Options
+    glyph: {fileID: 21300000, guid: 8cf64a1b09ebfc0489ee8889790383ab, type: 2}
+  - elementIdentifier: touch pad button
+    alternateElementIdentifier: Touchpad Button
+    glyph: {fileID: 21300000, guid: 4c2be3e130e0d224a9193c0de2436871, type: 2}
+  - elementIdentifier: up button
+    alternateElementIdentifier: d-pad up
+    glyph: {fileID: 21300000, guid: ffd02e751843320449cc3fd5c5c31c59, type: 2}
+  - elementIdentifier: down button
+    alternateElementIdentifier: d-pad down
+    glyph: {fileID: 21300000, guid: 8db41995cdee49c4e8ad9e6414832a02, type: 2}
+  - elementIdentifier: left button
+    alternateElementIdentifier: d-pad left
+    glyph: {fileID: 21300000, guid: 043a199af3f346d4c95558a38b0343b6, type: 2}
+  - elementIdentifier: right button
+    alternateElementIdentifier: d-pad right
+    glyph: {fileID: 21300000, guid: fe031d19106ba0440a9c0f866bb3cbf3, type: 2}
+  - elementIdentifier: left stick x
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: b3d7111c652717647b560337ca9eec81, type: 2}
+  - elementIdentifier: left stick y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: b3d7111c652717647b560337ca9eec81, type: 2}
+  - elementIdentifier: right stick x
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 6e21ec0ca0a930447b1c404997c76ba2, type: 2}
+  - elementIdentifier: right stick y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 6e21ec0ca0a930447b1c404997c76ba2, type: 2}

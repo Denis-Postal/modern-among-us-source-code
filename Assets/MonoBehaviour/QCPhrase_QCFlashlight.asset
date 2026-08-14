@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513980697e54cab9366b53303423f384, type: 3}
+  m_Name: QCPhrase_QCFlashlight
+  m_EditorClassIdentifier:
+  text: Use Flashlights preset?
+  key: 3544
+  icon: {fileID: 0}
+  order: 217
+  isInput: 0
+  isNegative: 0
+  tags:
+  - {fileID: 11400000, guid: 8d93f260efc4b6645bc2f8d8a0fd2564, type: 2}
+  - {fileID: 11400000, guid: 39d5fe34fd6ec5749abf9601a9d37f54, type: 2}
+  - {fileID: 11400000, guid: 63006e99b4800b744a92d9ccb4d1fe5a, type: 2}
+  - {fileID: 11400000, guid: 4424829e7d40aa6418e1eb940e5a7649, type: 2}
+  inputs: []
+  classicRules:
+    minDeadCrew: 0
+    minMeetingCount: 0
+    phases:
+      inLobby: 0
+      inGame: 0
+    maps:
+      maps:
+    roles:
+      requiredRoles:
+  hideAndSeekRules:
+    phases:
+      inLobby: 1
+      inGame: 0
+    maps:
+      maps:

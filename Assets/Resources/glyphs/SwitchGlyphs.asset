@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9793d17a86038482511aa4c6e0b863aa, type: 3}
+  m_Name: SwitchGlyphs
+  m_EditorClassIdentifier:
+  controllerType:
+  glyphMaps:
+  - elementIdentifier: B
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 1aea5cb4afc37f448ae21009489a1ba1, type: 2}
+  - elementIdentifier: A
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: c44f8041db5a1b84e862f64371bad3b4, type: 2}
+  - elementIdentifier: Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 7cc6f24684289394ab62cc8b89b45489, type: 2}
+  - elementIdentifier: X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: bec84529428ef1d44bb9d106e1d36db2, type: 2}
+  - elementIdentifier: '- Button'
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 9557b1ad117a57c4eb0c87b7523a1d7d, type: 2}
+  - elementIdentifier: + Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4095ed405e139964a8b27d23fc913081, type: 2}
+  - elementIdentifier: L
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: c70a21393cf6ba84183bb1d2f5c7083e, type: 2}
+  - elementIdentifier: R
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4acd780c35063f1458bb2b7a31664792, type: 2}
+  - elementIdentifier: ZL
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4dbc2fd9b8dcb1e44b4bf075d7106f45, type: 2}
+  - elementIdentifier: ZR
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 0252c1af98782b44e8428c363ad1baa1, type: 2}
+  - elementIdentifier: Up Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 7d1790db900f05f46993e945c6838e46, type: 2}
+  - elementIdentifier: Down Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: a78fe52b956f33b44bd8dffae9186962, type: 2}
+  - elementIdentifier: Left Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: e6ceb4f7dc3e7754389e21a193a8e6b2, type: 2}
+  - elementIdentifier: Right Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 5a309040a2bda20449a9e49dfa3607b7, type: 2}
+  - elementIdentifier: Left Stick X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4adb7bd6385c9514d88faf296bdf1497, type: 2}
+  - elementIdentifier: Left Stick Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4adb7bd6385c9514d88faf296bdf1497, type: 2}
+  - elementIdentifier: Right Stick X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: fe1e5765560d3bf4980c7ebd8df2ee90, type: 2}
+  - elementIdentifier: Right Stick Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: fe1e5765560d3bf4980c7ebd8df2ee90, type: 2}

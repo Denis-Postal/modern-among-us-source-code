@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: vis_mira_card_blueView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: 5b96366595a831d4085726d4dc589700, type: 2}
+  LeftIdleFrame: {fileID: 21300000, guid: c75bd221a5f108042acbeb23bee7bd5f, type: 2}
+  ClimbFrame: {fileID: 0}
+  FloorFrame: {fileID: 21300000, guid: 8a83fcd3b98781a499773231e9f14dfd, type: 2}
+  MatchPlayerColor: 0

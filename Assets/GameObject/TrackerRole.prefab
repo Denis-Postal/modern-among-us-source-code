@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: TrackerRole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7d5af9d1e5de027609de4db1e267f18, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  Role: 10
+  StringName: 1681
+  BlurbName: 1682
+  BlurbNameMed: 1683
+  BlurbNameLong: 1684
+  RoleIconSolid: {fileID: 21300000, guid: f7846b310c58da34d89b7f05f7e06df1, type: 2}
+  RoleIconWhite: {fileID: 21300000, guid: 72afd96b5ac29c040bd9ab5f92004603, type: 2}
+  RoleScreenshot: {fileID: 21300000, guid: e6c8f275272474d4bb4f8210a1b8cf38, type: 2}
+  NameColor: {r: 1, g: 1, b: 1, a: 1}
+  TasksCountTowardProgress: 1
+  CanUseKillButton: 0
+  CanBeKilled: 1
+  CanVent: 0
+  AffectedByLightAffectors: 1
+  MaxCount: 15
+  TeamType: 0
+  Ability: {fileID: 11400000, guid: 34b42fb59af19c54599ddf90c3dd12f4, type: 2}
+  SecondaryAbility: {fileID: 0}
+  DefaultGhostRole: 6
+  UseSound: {fileID: 8300000, guid: 1e1b8948d53b160479c8b01877419d0a, type: 3}
+  IntroSound: {fileID: 8300000, guid: 95a9734f2549d2f4fbc5e0b6047f13c6, type: 3}
+  AllGameSettings:
+  - {fileID: 11400000, guid: 941e334d5547c2a4c926d79e5bf0e3ad, type: 2}
+  - {fileID: 11400000, guid: 271c5f428b50996419e7c90a26999f25, type: 2}
+  - {fileID: 11400000, guid: 7abe5027d983c1442a8d947272f17961, type: 2}
+  CustomKillAnimations: []
+  cancelSound: {fileID: 8300000, guid: 9d52b6f5e3b2d78439cd18de1be64866, type: 3}

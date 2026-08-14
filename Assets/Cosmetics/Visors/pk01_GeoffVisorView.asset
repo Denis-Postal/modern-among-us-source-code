@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: pk01_GeoffVisorView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: ba6ea67cc606a084682a0e2f95bbaa55, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: da67e8f41c267f14d82f0df8797eef98, type: 2}
+  FloorFrame: {fileID: 21300000, guid: 60b175643be43ea49b016f3bf56e1ce9, type: 2}
+  MatchPlayerColor: 0

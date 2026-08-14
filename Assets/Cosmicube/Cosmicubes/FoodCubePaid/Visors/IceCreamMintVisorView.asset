@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: IceCreamMintVisorView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: 1e3ad3872716035478f3ee993d2af460, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: 08fcfbb787ec4de4789909ed8509d531, type: 2}
+  FloorFrame: {fileID: 21300000, guid: dd4d8c9c9d901604a8f9ef760d4318e9, type: 2}
+  MatchPlayerColor: 0

@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: reassembleSample_sampleBase_1
+  m_Rect:
+    serializedVersion: 2
+    x: 2.0597284
+    y: 353
+    width: 80.94027
+    height: 98
+  m_Offset: {x: -0.029860724, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.49963108, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    37a3df7cb5d778348b7227d283a7c4e4: 8079437941431344841
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 3
+    texture: {fileID: 2800000, guid: 0d3eccc1d1423934294922037ee944e0, type: 3}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 12
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 6
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 000004000500020000000100020003000000000003000400
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 6
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 1
+        offset: 0
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 128
+      _typelessdata: 295ccf3e0ad7233e00000000295ccf3e47e1fabe00000000703dcabe47e1fabe00000000e17ad4beeb51383e000000007b14aebd47e1fa3e000000009999993d47e1fa3e000000000000000000000000cff37c3f4dbe6c3fcff37c3fe0ed473f2549123de0ed473f310c433c48e06d3ff43ccf3e026f7f3f8661183f026f7f3f
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 2.0597284
+      y: 353
+      width: 80.94027
+      height: 98
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 42.5, z: 100, w: 402}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 3
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.39499998, y: 0.11}
+    - {x: 0.085, y: 0.48999998}
+    - {x: -0.095, y: 0.48999998}
+    - {x: -0.33499998, y: 0.22999999}
+    - {x: -0.405, y: 0.16}
+    - {x: -0.405, y: -0.48999998}
+    - {x: -0.315, y: -0.48999998}
+    - {x: -0.235, y: -0.44}
+    - {x: -0.105, y: -0.34}
+    - {x: 0.065, y: -0.48999998}
+    - {x: 0.195, y: -0.48999998}
+    - {x: 0.225, y: -0.48}
+    - {x: 0.405, y: -0.29}
+    - {x: 0.405, y: 0.08}
+  m_Bones: []
+  m_SpriteID:

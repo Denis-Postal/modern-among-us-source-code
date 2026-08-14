@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd0354ef773e3e9cffaa6415ec156acb, type: 3}
+  m_Name: ClassicModeSettingsList
+  m_EditorClassIdentifier:
+  GameModeName: 3502
+  StandardRulesImage: {fileID: 21300000, guid: db2c2fbc2a3ad2c498d593f3ea780d4a, type: 2}
+  AlternateRulesImage: {fileID: 21300000, guid: a579d355f98641440941adac6a95d1c7, type: 2}
+  StandardRulesName: 3291
+  AlternateRulesName: 3292
+  StandardPresetDescription: 3290
+  AlternatePresetDescription: 3368
+  AlternateRulesType: 1
+  MapNameSetting: {fileID: 11400000, guid: c26f834416ef1d24c87cb0a2c3e9e75e, type: 2}
+  OverviewSettings:
+  - {fileID: 11400000, guid: f175c973b9b2d134ebed5fa93f296c09, type: 2}
+  - {fileID: 11400000, guid: bd8d824e48b6d074cb31f536857d2240, type: 2}
+  - {fileID: 11400000, guid: 230096ab6bddb81458f33acd50daf1d5, type: 2}
+  - {fileID: 11400000, guid: c8068c9ad874bf0419735bcb0e8a8d9d, type: 2}
+  AllCategories:
+  - CategoryName: 3350
+    AllGameSettings:
+    - {fileID: 11400000, guid: f175c973b9b2d134ebed5fa93f296c09, type: 2}
+    - {fileID: 11400000, guid: 230096ab6bddb81458f33acd50daf1d5, type: 2}
+    - {fileID: 11400000, guid: e2386bfb90b20c1498a6bde7245eea25, type: 2}
+    - {fileID: 11400000, guid: 8181688364423de4cbb1eba981f4f935, type: 2}
+  - CategoryName: 3353
+    AllGameSettings:
+    - {fileID: 11400000, guid: bd8d824e48b6d074cb31f536857d2240, type: 2}
+    - {fileID: 11400000, guid: d71fb5bed31d7704e85cee151fcd7404, type: 2}
+  - CategoryName: 3352
+    AllGameSettings:
+    - {fileID: 11400000, guid: 0030c5372d54af34f9eca23ec78b0569, type: 2}
+    - {fileID: 11400000, guid: ec8a1fafeb131b84cb9e249cfe8fb21b, type: 2}
+    - {fileID: 11400000, guid: 760aa69e80d17b744a7d0b6947e3c4aa, type: 2}
+    - {fileID: 11400000, guid: c985b088427668647a62861f5ba9bcf6, type: 2}
+    - {fileID: 11400000, guid: 83bb83584eef34b47ae3602e5a0a74bc, type: 2}
+    - {fileID: 11400000, guid: 7155dcae10c6a0e40bf1dcdde634392a, type: 2}
+  - CategoryName: 3354
+    AllGameSettings:
+    - {fileID: 11400000, guid: bbace7224aeb00548b72f5c9991821e7, type: 2}
+    - {fileID: 11400000, guid: fe9fb13c23876aa449d30140ca60e223, type: 2}
+    - {fileID: 11400000, guid: 4c900697415a5a649b14c7d2987d091b, type: 2}
+    - {fileID: 11400000, guid: 6dae7f8488a1a5d4e94b44788e8cfc42, type: 2}
+    - {fileID: 11400000, guid: c8068c9ad874bf0419735bcb0e8a8d9d, type: 2}

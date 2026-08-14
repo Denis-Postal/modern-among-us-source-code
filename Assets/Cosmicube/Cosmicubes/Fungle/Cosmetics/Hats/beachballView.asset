@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: beachballView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: c7533a50d457d9442a63f96d5908946e, type: 2}
+  BackImage: {fileID: 0}
+  LeftMainImage: {fileID: 21300000, guid: 5a2bd43fb7c16fd418cc7e04744377a5, type: 2}
+  LeftBackImage: {fileID: 0}
+  ClimbImage: {fileID: 21300000, guid: 5786685ae427852499123fcb73727cbc, type: 2}
+  FloorImage: {fileID: 21300000, guid: 780a823806f42f749bde8cc44a2a8ed4, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

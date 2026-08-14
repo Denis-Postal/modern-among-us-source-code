@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Hololive
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 8cec1552ec9d53d479511739edceea41
+    m_SubObjectName: cosmicube_hololive2022
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 259c7c1732220634c8c83ba7d76e3ee6
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 70be0267a7b33264f8ee98cf671ef7f0
+    m_SubObjectName: ui_currency_hololive
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 8/16/2022
+  allUnlockables:
+  - {fileID: 11400000, guid: 175724976cc3a4842964078f242ab355, type: 2}
+  - {fileID: 11400000, guid: 39681d2e5cdd9604aaa2b7f52432b155, type: 2}
+  - {fileID: 11400000, guid: daf54337fd957684690c10accf49596f, type: 2}
+  - {fileID: 11400000, guid: 0bc817855d7d03648ac38ae8f7580cb9, type: 2}
+  - {fileID: 11400000, guid: 437047939f1ac514381fef663fa91686, type: 2}
+  - {fileID: 11400000, guid: 3110099fccaddbb4694940a6ab0bfff2, type: 2}
+  - {fileID: 11400000, guid: 87bdedf2d4690824d958e20af31738a6, type: 2}
+  - {fileID: 11400000, guid: 9d12c9662165ef54a9d784262e77e709, type: 2}
+  - {fileID: 11400000, guid: 31941a3146e6b2942976d4f33aa42b0d, type: 2}
+  - {fileID: 11400000, guid: c5333ad661a611943be10d2d09776fae, type: 2}
+  - {fileID: 11400000, guid: 443db7be44ab8db408429f76aa756410, type: 2}
+  - {fileID: 11400000, guid: 0137a627070443840affb63d64c89741, type: 2}
+  - {fileID: 11400000, guid: 88f6f8aade784f34c9a0d2d5f37c8b3a, type: 2}
+  - {fileID: 11400000, guid: 5f1853a8a0960e84e9eea13a448ee1b5, type: 2}
+  - {fileID: 11400000, guid: f8b5ead8e6887ca478dc85fb198057a5, type: 2}
+  - {fileID: 11400000, guid: 60fe434983acbb4479b6446f21083718, type: 2}
+  - {fileID: 11400000, guid: 967bb01f2607c2e4a8b12db98d8a61d9, type: 2}
+  - {fileID: 11400000, guid: 5b88c925e97807541b95c228cae11ee6, type: 2}
+  - {fileID: 11400000, guid: 465ccbdbd1e1115499a1c125e257c01e, type: 2}
+  - {fileID: 11400000, guid: 35ef9404a7ce89b4fad7e780d17836fe, type: 2}
+  - {fileID: 11400000, guid: b3aa615d010c07b4bbe365e87b30f8e8, type: 2}
+  - {fileID: 11400000, guid: e557135f7e20e0c47a9479ce929e8b6e, type: 2}
+  - {fileID: 11400000, guid: adf0a8edeaa096c499b9b8700f31e126, type: 2}
+  - {fileID: 11400000, guid: d7d556766438ba44282e4509491d9c63, type: 2}
+  - {fileID: 11400000, guid: c7f346c9bc9559e4c8d4226d5fe4ddd4, type: 2}
+  - {fileID: 11400000, guid: 01437ebd035545c46abfc24b635a5d2e, type: 2}
+  - {fileID: 11400000, guid: f33ad207d24f99047abd182e9b34d6df, type: 2}
+  - {fileID: 11400000, guid: 553ec6c819714054cb4eef76c3237d6e, type: 2}
+  - {fileID: 11400000, guid: 7c6a3700a2132814b931825d7daa3bb2, type: 2}
+  - {fileID: 11400000, guid: 3e9af1134a770804fab44886e0839106, type: 2}
+  starCost: 110
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.25
+    max: 0.5
+  YRange:
+    min: -1.1
+    max: -0.3
+  podId: hololive_1
+  productId: cube_hololive_1
+  cosmicubeName: Hololive
+  limitedTime:
+    timeStart:
+      limitedYear: 2022
+      limitedMonth: 9
+      limitedDay: 20
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2022
+      limitedMonth: 12
+      limitedDay: 21
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

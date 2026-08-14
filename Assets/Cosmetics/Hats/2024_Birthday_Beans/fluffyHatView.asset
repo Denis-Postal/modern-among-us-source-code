@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: fluffyHatView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: b53115a07be9b034baa3d02dc1aff781, type: 2}
+  BackImage: {fileID: 0}
+  LeftMainImage: {fileID: 21300000, guid: 12f28c4e22c2c9b44923b2d946026453, type: 2}
+  LeftBackImage: {fileID: 0}
+  ClimbImage: {fileID: 21300000, guid: 211fc80e3fe40c144be327c6cc0f3264, type: 2}
+  FloorImage: {fileID: 21300000, guid: f7df50fe2b1c8824a8be56ab76c8c151, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: vis_eyeballView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: c9d1089ac08ee0349aff647fb7b6592c, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: 52f19e48dc194c84cb9bc75655896650, type: 2}
+  FloorFrame: {fileID: 21300000, guid: f72c6cfdba8f96f41be796564c710210, type: 2}
+  MatchPlayerColor: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: pigView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: bd785b20519e9ab44badcea675ee5afd, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: 5b61e91919ab1e840909f355a5555ea6, type: 2}
+  FloorFrame: {fileID: 21300000, guid: 59ee5533bcf7e234982b6fa4e5ba00eb, type: 2}
+  MatchPlayerColor: 1

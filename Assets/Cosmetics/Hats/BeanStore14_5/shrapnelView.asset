@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: shrapnelView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: ff120fd1fb2fd6d498d2f83a58261789, type: 2}
+  BackImage: {fileID: 21300000, guid: b21754d7145a3ca47901b822c5218418, type: 2}
+  LeftMainImage: {fileID: 21300000, guid: b21754d7145a3ca47901b822c5218418, type: 2}
+  LeftBackImage: {fileID: 21300000, guid: e877114fb1f168d4f8ce12068af7c6dd, type: 2}
+  ClimbImage: {fileID: 21300000, guid: 043f2187a4610d94fb43b3f5ebfedebd, type: 2}
+  FloorImage: {fileID: 21300000, guid: 4d267a66c6a299d49ae387d0e0168bc0, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

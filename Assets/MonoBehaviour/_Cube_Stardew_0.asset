@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Stardew
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 0a4e0b633bb244715bd62f1f48464f9f
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 9899dbecddfe4442c8f7f0c977bec66f
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 5f100e322a9884f5a842c505f5b4eb10
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 9/25/25
+  allUnlockables:
+  - {fileID: 11400000, guid: aed80447c03007b49ba4cc56d8d860d9, type: 2}
+  - {fileID: 11400000, guid: 8267fa06c00c86e4dbf036e9d21bd753, type: 2}
+  - {fileID: 11400000, guid: b9e91afb427f8e444ae91561012bcdf1, type: 2}
+  - {fileID: 11400000, guid: 4334fa790d655ab419cb87d612de3414, type: 2}
+  - {fileID: 11400000, guid: de8648c60181c3e48bb983fc5bb6c200, type: 2}
+  - {fileID: 11400000, guid: 6227d4a959168f54db161fb7ed30ada8, type: 2}
+  - {fileID: 11400000, guid: a3f6d3f269d27504186499d10f1da6ff, type: 2}
+  - {fileID: 11400000, guid: 5451adfce428ac64ca89ff2a7c14ae1d, type: 2}
+  - {fileID: 11400000, guid: fd9af7c3ed46f29498f78351ca0fd1af, type: 2}
+  - {fileID: 11400000, guid: c359a9335195e7e40a69154e40f498fe, type: 2}
+  - {fileID: 11400000, guid: abd92f831bdba6e43aee6148972dc775, type: 2}
+  - {fileID: 11400000, guid: 24c41628367004a49a526f8d064c93ee, type: 2}
+  - {fileID: 11400000, guid: e902aa5a3c7c20f458dfe8e2db5aaa55, type: 2}
+  - {fileID: 11400000, guid: ae035b5775aa49440bb4d248341b3340, type: 2}
+  - {fileID: 11400000, guid: dab5ebafd5381224e98e6f2dccf79219, type: 2}
+  - {fileID: 11400000, guid: 3605d75f0906ab9458c93be503c832d6, type: 2}
+  - {fileID: 11400000, guid: 1573a23d11e625f47bd2f9ee26b294fd, type: 2}
+  - {fileID: 11400000, guid: dd73ce283aad5444d9b0d1a592f8f1aa, type: 2}
+  - {fileID: 11400000, guid: 27de9c782b3f93340a48cc10d1b7af96, type: 2}
+  - {fileID: 11400000, guid: bb5b4e905c4ff4944bb79d93345aa082, type: 2}
+  - {fileID: 11400000, guid: 728105350aaf33c4bb8f97adf8fd4357, type: 2}
+  - {fileID: 11400000, guid: b44ca2b384a40fa46abf7a1ce83cfd65, type: 2}
+  - {fileID: 11400000, guid: 0d0682b0d4b871b43beb20bc9cdbc089, type: 2}
+  - {fileID: 11400000, guid: 29c2bffc57263c04bb8beb18a1cf9c55, type: 2}
+  - {fileID: 11400000, guid: b2ee98adcd2ccfe4a8808635f49a1d39, type: 2}
+  - {fileID: 11400000, guid: 85e9efb051eab2d4cac91e298e4a8c00, type: 2}
+  - {fileID: 11400000, guid: 6e7347310e8526c48974971d7e10333d, type: 2}
+  - {fileID: 11400000, guid: 4407a31906efcf84fb2b261f005cab48, type: 2}
+  - {fileID: 11400000, guid: 085f1d7ede32d3842abd65290c8a045f, type: 2}
+  starCost: 0
+  beanCost: 3300
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.95
+    max: 0
+  YRange:
+    min: -0.9
+    max: 0.45
+  podId: stardew
+  productId: cube_stardew
+  cosmicubeName: Stardew
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 11
+      limitedDay: 18
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2026
+      limitedMonth: 2
+      limitedDay: 18
+      limitedHour: 18
+      limitedMinute: 0
+  epicId:

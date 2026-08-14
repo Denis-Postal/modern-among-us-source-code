@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Racing
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: 4f97fb15a32c34b33b10e09e4ba3505d
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 444cb074cb5c343289911b45cf38f984
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 70094a3d710044fa189b2729b93d0dc2
+    m_SubObjectName:
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 4/16/2025
+  allUnlockables:
+  - {fileID: 11400000, guid: ad47f1f5c3afd98439c4a6f8bd50781b, type: 2}
+  - {fileID: 11400000, guid: 19857a8394dedf942900a523f308ca88, type: 2}
+  - {fileID: 11400000, guid: 7884f6d0f92976647829166aab541d05, type: 2}
+  - {fileID: 11400000, guid: 036e41e5352697749b97de35120afac3, type: 2}
+  - {fileID: 11400000, guid: 7c0295029fba93749a418740584253d3, type: 2}
+  - {fileID: 11400000, guid: 6e73b4abb8a053e4bb0948742ae8b128, type: 2}
+  - {fileID: 11400000, guid: 9890ac2a46b23b744827525aec8d942e, type: 2}
+  - {fileID: 11400000, guid: fd62f5bbbf322244cb343346ce058889, type: 2}
+  - {fileID: 11400000, guid: 4062f4b3f8234c8489af2b324c667883, type: 2}
+  - {fileID: 11400000, guid: c3ea602f6c7558346ac945940edea1f9, type: 2}
+  - {fileID: 11400000, guid: f10cdfd3ffe35ac438a9967ba9c78bce, type: 2}
+  - {fileID: 11400000, guid: 7d6993ff4d59c184092ccc5765f5032b, type: 2}
+  - {fileID: 11400000, guid: 409be330aed66634c8a38b4d17f750ba, type: 2}
+  - {fileID: 11400000, guid: 603fb87c5e0133c438427e7d59981e01, type: 2}
+  - {fileID: 11400000, guid: 009424488f7ada64592022dbcb547012, type: 2}
+  starCost: 50
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.4
+    max: 0.5
+  YRange:
+    min: -0.3
+    max: 0.5
+  podId: racing
+  productId: cube_racing
+  cosmicubeName: Racing
+  limitedTime:
+    timeStart:
+      limitedYear: 2025
+      limitedMonth: 6
+      limitedDay: 24
+      limitedHour: 17
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:

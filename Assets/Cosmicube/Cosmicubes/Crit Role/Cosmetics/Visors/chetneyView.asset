@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c5cf8bcc10abb2d8ac619b3f3911b5, type: 3}
+  m_Name: chetneyView
+  m_EditorClassIdentifier:
+  IdleFrame: {fileID: 21300000, guid: 4a143204d8738ed4ead991eac003c100, type: 2}
+  LeftIdleFrame: {fileID: 0}
+  ClimbFrame: {fileID: 21300000, guid: a4e77bc1d4e73574e9be2ac85212c289, type: 2}
+  FloorFrame: {fileID: 21300000, guid: c16da80c22e3a2e4cb369834fcdff1cd, type: 2}
+  MatchPlayerColor: 0

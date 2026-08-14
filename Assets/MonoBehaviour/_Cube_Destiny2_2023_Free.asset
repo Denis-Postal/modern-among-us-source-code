@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Destiny2_2023_Free
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: c3334fa2be01fe94987e4fdca55ef68b
+    m_SubObjectName: cosmicube_destiny2 1
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 2ddb09cc7cb8f914ebb4a6722888a48c
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: 5428843dfb6c66c41b793c4e0ed2860b
+    m_SubObjectName: UI_currency_destiny2_free
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated: 1/11/2023
+  allUnlockables:
+  - {fileID: 11400000, guid: 644ae83d9028f0548bad7191d464806a, type: 2}
+  - {fileID: 11400000, guid: a5463674d5491964ca7d47c69be1a3b1, type: 2}
+  - {fileID: 11400000, guid: bc9d9aefeff45b04d93a5134982693bd, type: 2}
+  - {fileID: 11400000, guid: 247f0e1979e05e84992bed65fab1173f, type: 2}
+  - {fileID: 11400000, guid: ee91c241061260149a5aae604cfe3c7a, type: 2}
+  - {fileID: 11400000, guid: 584cb4a720566664a8318b8c119a45f9, type: 2}
+  - {fileID: 11400000, guid: 9aff47c3b3b194e4ea38667dc74cbba4, type: 2}
+  - {fileID: 11400000, guid: 4a2ab6a93a8df1c40aa52039eb0d7115, type: 2}
+  - {fileID: 11400000, guid: 50ca9d68b2d98c9479daca4b0d43d06b, type: 2}
+  - {fileID: 11400000, guid: 20bb110f259b8ff44a9580e2a965ce10, type: 2}
+  - {fileID: 11400000, guid: 0aa998c6de0e1084a806b1c8b53dd8ce, type: 2}
+  - {fileID: 11400000, guid: d6e9906231422b14a80ab911599ccb65, type: 2}
+  - {fileID: 11400000, guid: 7b881dd40ca4c6b428b5498ce176ab2e, type: 2}
+  - {fileID: 11400000, guid: 310772e66988c6d4a87bff3473074715, type: 2}
+  - {fileID: 11400000, guid: 721c3821c6158af48a67675baae553d3, type: 2}
+  - {fileID: 11400000, guid: 09fd78712e896bd4594ab92d85d527fe, type: 2}
+  - {fileID: 11400000, guid: 2c41875f5aa04b0469024a9c8902a0b2, type: 2}
+  - {fileID: 11400000, guid: 75c6a742b19f6ae49a412f43e47183ef, type: 2}
+  - {fileID: 11400000, guid: 13eb2e217e28fc74abe8201cbc347e59, type: 2}
+  - {fileID: 11400000, guid: 031124b7e72b7534fbaecb06421653e7, type: 2}
+  - {fileID: 11400000, guid: 3b11c7d27104ae34a99a412448e0d6b5, type: 2}
+  - {fileID: 11400000, guid: 6af31961bf5ee6c47ad5f20da60aa1c5, type: 2}
+  - {fileID: 11400000, guid: 0366f8539bb608041aff4f768e6951a4, type: 2}
+  - {fileID: 11400000, guid: ec51011e78df86443a0216d9493040a7, type: 2}
+  - {fileID: 11400000, guid: fb51b45acaaffde4db2007663a8ff253, type: 2}
+  - {fileID: 11400000, guid: 3899ce6279ea3b041999305b99c036e2, type: 2}
+  - {fileID: 11400000, guid: af0e977ef9c51684b9dee473350ed111, type: 2}
+  - {fileID: 11400000, guid: 930120dab634fb841afea194773416fb, type: 2}
+  - {fileID: 11400000, guid: bdc39325c09a1d845aab656cfdfed769, type: 2}
+  starCost: 0
+  beanCost: 3500
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.65
+    max: 0.65
+  YRange:
+    min: -0.9
+    max: 0.6
+  podId: destiny2_2023_free
+  productId: cube_destiny2_2023_free
+  cosmicubeName: Guardian
+  limitedTime:
+    timeStart:
+      limitedYear: 2023
+      limitedMonth: 2
+      limitedDay: 28
+      limitedHour: 18
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 2023
+      limitedMonth: 5
+      limitedDay: 30
+      limitedHour: 18
+      limitedMinute: 0
+  epicId:

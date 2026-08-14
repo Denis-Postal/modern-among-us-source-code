@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9793d17a86038482511aa4c6e0b863aa, type: 3}
+  m_Name: XboxGlyphs
+  m_EditorClassIdentifier:
+  controllerType:
+  glyphMaps:
+  - elementIdentifier: Left Stick X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: deb3207881fb9d24b8921fe9540d9763, type: 2}
+  - elementIdentifier: Left Stick Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: deb3207881fb9d24b8921fe9540d9763, type: 2}
+  - elementIdentifier: Right Stick X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: d5c8d359b02f84847b2717ebc6a670e9, type: 2}
+  - elementIdentifier: Right Stick Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: d5c8d359b02f84847b2717ebc6a670e9, type: 2}
+  - elementIdentifier: Left Trigger
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 5b8e030dee47d674ca003851375b78cd, type: 2}
+  - elementIdentifier: Right Trigger
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 881ab494671f2d844a85b59e724976a7, type: 2}
+  - elementIdentifier: A
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 8512ee975c8359b49a008285b92fddf9, type: 2}
+  - elementIdentifier: B
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 7110ddacecc947f4a84783a344398e92, type: 2}
+  - elementIdentifier: X
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 4dde0b9563d11e3468312b7befcf06e7, type: 2}
+  - elementIdentifier: Y
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: bbbdfd1b7e231d9468f1f9138adc8f15, type: 2}
+  - elementIdentifier: Left Bumper
+    alternateElementIdentifier: Left Shoulder
+    glyph: {fileID: 21300000, guid: 52ec778070d33f845b1b407b7e5afd4e, type: 2}
+  - elementIdentifier: Right Bumper
+    alternateElementIdentifier: Right Shoulder
+    glyph: {fileID: 21300000, guid: 51abe68873b864042aa25b201eb08e04, type: 2}
+  - elementIdentifier: View Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 5c7aaf7f3258d8841aedc736318ca533, type: 2}
+  - elementIdentifier: Menu Button
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 74719f681f5e60242963d1a861f7771e, type: 2}
+  - elementIdentifier: D-Pad Up
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 792c8d59add2e914f9628eff358fab80, type: 2}
+  - elementIdentifier: D-Pad Right
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 38b0df0f27cecd04ab849f9eeb1300ab, type: 2}
+  - elementIdentifier: D-Pad Down
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 73e2a9a36d7fb8447b17a1560bde2c98, type: 2}
+  - elementIdentifier: D-Pad Left
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 936c46aa7f8c64c43ba3bc9686dc0884, type: 2}
+  - elementIdentifier: Start
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 74719f681f5e60242963d1a861f7771e, type: 2}
+  - elementIdentifier: Back
+    alternateElementIdentifier:
+    glyph: {fileID: 21300000, guid: 5c7aaf7f3258d8841aedc736318ca533, type: 2}

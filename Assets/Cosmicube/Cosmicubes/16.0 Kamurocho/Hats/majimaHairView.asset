@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: majimaHairView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: e7eb77700b0213042b9ccca1cb67a435, type: 2}
+  BackImage: {fileID: 21300000, guid: 7259a66f4ac2554499f79dc51e312e17, type: 2}
+  LeftMainImage: {fileID: 21300000, guid: bcdaaf41f83f76946a89aa2a60da548a, type: 2}
+  LeftBackImage: {fileID: 0}
+  ClimbImage: {fileID: 21300000, guid: cab5328f5dd9b994e9703e59b0ca0416, type: 2}
+  FloorImage: {fileID: 21300000, guid: 76485baf632282449af43b5d3ee5fe2c, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

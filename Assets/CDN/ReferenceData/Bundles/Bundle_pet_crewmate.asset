@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d112223c32f1b0c40a10d1a14033b8, type: 3}
+  m_Name: Bundle_pet_crewmate
+  m_EditorClassIdentifier:
+  BundleSize: 0
+  productId: pet_crewmate
+  beanCost: 0
+  starCost: 30
+  cosmetics:
+  - {fileID: 11400000, guid: 986faaf564f69484b9cf5dbc2b4fda8f, type: 2}
+  - {fileID: 11400000, guid: 5c5d72bc7ec8c2347b7bf5a25725fd49, type: 2}
+  - {fileID: 11400000, guid: 08249ad847ab22245a7424d08bd5e80e, type: 2}
+  StoreImage: {fileID: 21300000, guid: 977643e9facd5a24f91815ab5a9b5578, type: 2}
+  NotInStore: 0
+  Free: 0
+  paidOnMobile: 0
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8425e20443f6a437a5b77517a43c3b0, type: 3}
+  m_Name: fearneView
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: 573ff0af3a957304e8c6a11cd391930e, type: 2}
+  BackImage: {fileID: 21300000, guid: f0a1a25c7fa0bd140afc537f17abf79d, type: 2}
+  LeftMainImage: {fileID: 21300000, guid: 70e6b54351cb76b4a8957493b143508c, type: 2}
+  LeftBackImage: {fileID: 21300000, guid: b049fe632381a6549920647cc76ac878, type: 2}
+  ClimbImage: {fileID: 21300000, guid: 3768191167f07d448913b073cac5c756, type: 2}
+  FloorImage: {fileID: 21300000, guid: 6bad5c00ca9a99f47aab071265e68d25, type: 2}
+  LeftClimbImage: {fileID: 0}
+  LeftFloorImage: {fileID: 0}
+  MatchPlayerColor: 0

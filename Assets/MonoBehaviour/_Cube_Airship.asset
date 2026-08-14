@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ac4e4914361a3d7ea08f1b54d9d4f, type: 3}
+  m_Name: _Cube_Airship
+  m_EditorClassIdentifier:
+  StoreImageRef:
+    m_AssetGUID: ae6a3b48e2dcc487b845bd1d9f9b4071
+    m_SubObjectName: cosmicube_airship
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  CosmicubePrefabRef:
+    m_AssetGUID: 9c9cf1591afc2154e90c100ed1682c13
+    m_SubObjectName:
+    m_SubObjectType:
+  podIconRef:
+    m_AssetGUID: d89cb5352f563448b8c6ccd82843d3d5
+    m_SubObjectName: UI_Currency_Airship
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  DateCreated:
+  allUnlockables:
+  - {fileID: 11400000, guid: 188e5695690a0f24992850e1aa4e16ae, type: 2}
+  - {fileID: 11400000, guid: 0abf2e94dee1db54ab7a8fefac9c2559, type: 2}
+  - {fileID: 11400000, guid: 0ac073c68cc759b4ea2174bdc68dbd48, type: 2}
+  - {fileID: 11400000, guid: a4ae1975da4817a43a51b593bb326134, type: 2}
+  - {fileID: 11400000, guid: 3f1b0ec8ee9d7f646bc587f4c766f681, type: 2}
+  - {fileID: 11400000, guid: aabc5c7cebd2a154b9abc6be1b3e1048, type: 2}
+  - {fileID: 11400000, guid: a01afbea6a53a53469dab5c29dd88782, type: 2}
+  - {fileID: 11400000, guid: 157a3e1dcf9f69c458808efee03f93aa, type: 2}
+  - {fileID: 11400000, guid: 2e3e649cb03ae374c841a14284423416, type: 2}
+  - {fileID: 11400000, guid: 5a8ac1ea21d0a9b4faaa0b0545f6cdd4, type: 2}
+  - {fileID: 11400000, guid: 1b017845d92222a4fbd183bf59691e11, type: 2}
+  - {fileID: 11400000, guid: dac95e0b23d187448a58cdd2e85c13bb, type: 2}
+  - {fileID: 11400000, guid: fd36e26df74c587449b8c640c6564c1b, type: 2}
+  - {fileID: 11400000, guid: f45800bf59f4b62489e914f33c419d93, type: 2}
+  - {fileID: 11400000, guid: e857ce66cfa34484ca5924890e02b284, type: 2}
+  - {fileID: 11400000, guid: 4ff3beb68f9458d47a9741f4ea8eb5c8, type: 2}
+  - {fileID: 11400000, guid: 6f53d370782e32a45922a2b789fa74f2, type: 2}
+  - {fileID: 11400000, guid: 7ca7e62e7d701f54797b47b2c61131d9, type: 2}
+  - {fileID: 11400000, guid: 8ad8dd77149985d47a4bb4830ed516ac, type: 2}
+  - {fileID: 11400000, guid: fc49b6b77c61d8a45a9ba7c415155fe4, type: 2}
+  - {fileID: 11400000, guid: 747ce5874557070459d0cda6d5b0ae8f, type: 2}
+  - {fileID: 11400000, guid: 2abfa795235c1614882d44f32f11fe8e, type: 2}
+  - {fileID: 11400000, guid: 8540a9755722d90489c65dfb07d183ef, type: 2}
+  - {fileID: 11400000, guid: 0474028fc4d67f3459bb5e43826dd859, type: 2}
+  - {fileID: 11400000, guid: 213c1a3fad240b54590eca0e0462288b, type: 2}
+  - {fileID: 11400000, guid: d6d7572aa12b8b14ebf94ca3c5836d1d, type: 2}
+  - {fileID: 11400000, guid: b041a32baa03c7a4db81e37f67ed9bf5, type: 2}
+  - {fileID: 11400000, guid: c7df51ff4db41c146b7c5efbe82e2d67, type: 2}
+  - {fileID: 11400000, guid: 213708fe9df6f904ab79aa111d7174ac, type: 2}
+  - {fileID: 11400000, guid: 76aab3e3669f91d4e8dbcfc4495727ba, type: 2}
+  - {fileID: 11400000, guid: e339495990e1dbb40923e5906ee232ee, type: 2}
+  - {fileID: 11400000, guid: 2670c8fa68d2521469e584a6beddf112, type: 2}
+  - {fileID: 11400000, guid: 4de9a9678458743499d740d32ed6675d, type: 2}
+  - {fileID: 11400000, guid: 3676a95d7474d1c4c841fa250ee5f464, type: 2}
+  - {fileID: 11400000, guid: 0c8130fd1ab8f6c48b099ac6e9828caa, type: 2}
+  - {fileID: 11400000, guid: 255c0989f8eaa554cb711eb02c9228f4, type: 2}
+  - {fileID: 11400000, guid: 4d45a6f530b27e6408a14e984d79f8bd, type: 2}
+  starCost: 90
+  beanCost: 0
+  Order: 0
+  Free: 0
+  NotInStore: 0
+  XRange:
+    min: -0.5
+    max: 1
+  YRange:
+    min: -0.75
+    max: 1
+  podId: airship
+  productId: cube_airship
+  cosmicubeName: Airship
+  limitedTime:
+    timeStart:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+    timeEnd:
+      limitedYear: 0
+      limitedMonth: 0
+      limitedDay: 0
+      limitedHour: 0
+      limitedMinute: 0
+  epicId:
